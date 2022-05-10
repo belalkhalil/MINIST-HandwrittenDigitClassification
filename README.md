@@ -1,2 +1,2 @@
 # MINIST-HandwrittenDigitClassification
-Creating a classifier for Handwritten digits
+this is an introductory project for creating a classifier for Handwritten digits
